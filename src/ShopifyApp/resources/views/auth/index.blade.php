@@ -114,7 +114,7 @@
         @endif
 
         <p class="subhead">
-            <label for="shop">Enter your Shopify domain to login.</label>
+            <label for="shop">Enter your Shopify domain to login!</label>
         </p>
 
         <form method="POST" action="{{ route('authenticate') }}">
